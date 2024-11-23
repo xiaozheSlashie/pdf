@@ -2,6 +2,7 @@
 
 ### 指令
 
+#### 要先安裝 PyMuPDF 和 Pillow
 ``` shell
 pip install PyMuPDF
 pip install Pillow
@@ -27,5 +28,10 @@ which python
 pip list
 
 ```
+#### 執行py指令
 
+``` shell
+py fileName.py
+
+```
 
